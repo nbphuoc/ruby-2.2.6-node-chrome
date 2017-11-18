@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build nbphuoc/ruby-2.2.6-node-chrome
+docker build -t nbphuoc/node-8-aws-browser .
